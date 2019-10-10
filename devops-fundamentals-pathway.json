@@ -1,5 +1,11 @@
 {
   "title": "Devops fundamentals",
   "description": "",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "devops-basic-scenario",
+      "title": "Devops Basic Scenario",
+      "description": ""
+    }
+  ]
 }
