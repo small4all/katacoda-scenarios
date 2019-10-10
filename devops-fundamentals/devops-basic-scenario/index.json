@@ -4,6 +4,12 @@
   "difficulty": "Beginner",
   "time": "2 days",
   "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md"
     },
