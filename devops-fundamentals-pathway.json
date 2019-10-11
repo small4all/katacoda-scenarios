@@ -6,6 +6,11 @@
       "course_id": "devops-basic-scenario",
       "title": "Devops Basic Scenario",
       "description": ""
+    },
+    {
+      "course_id": "",
+      "title": "Kubernetes Schulung",
+      "description": ""
     }
   ]
 }
