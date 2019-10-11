@@ -6,12 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Die beste Schulung ever!",
         "text": "step1.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "setWorkdir.sh",
+      "credits": "Lukas und Steffen sind die Besten"
     },
     "finish": {
       "text": "finish.md"

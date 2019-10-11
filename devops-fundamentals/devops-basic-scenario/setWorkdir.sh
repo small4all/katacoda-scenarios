@@ -1,0 +1,2 @@
+mkdir basicSchulung
+cd basicSchulung
