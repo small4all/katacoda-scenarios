@@ -2,14 +2,14 @@
   "title": "Devops Fundamentals",
   "description": "",
   "courses": [
-    {
-      "course_id": "kubernetes-basic-scenario",
-      "title": "Kubernetes Schulung",
+   {
+      "course_id": "devops-basic-scenario",
+      "title": "Devops Basic Schulung",
       "description": ""
     },
     {
-      "course_id": "devops-basic-scenario",
-      "title": "Devops Basic Schulung",
+      "course_id": "kubernetes-basic-scenario",
+      "title": "Kubernetes Schulung",
       "description": ""
     }
   ]
