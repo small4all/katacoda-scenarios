@@ -11,7 +11,10 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "setWorkdir.sh",
+      "credits": "Lukas und Steffen sind die Besten"
     },
     "finish": {
       "text": "finish.md"
