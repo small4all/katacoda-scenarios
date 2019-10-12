@@ -12,8 +12,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "background.sh",
-      "code": "setWorkdir.sh"
+      "courseData": "init.sh",
+      "code": "prepareWorkspace.sh"
     },
     "finish": {
       "text": "finish.md"

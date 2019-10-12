@@ -1,2 +1,0 @@
-mkdir devopsSchulung
-cd devopsSchulung
